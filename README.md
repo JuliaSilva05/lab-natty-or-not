@@ -12,7 +12,7 @@ Utilizei a IA Generativa do ChatGPT para criar o roteiro e gerar a imagem.
 ## 🚀 Resultados
 O mapa mental apresenta um conteúdo resumido sobre como a IA pode e vai revolucionar o nosso futuro.
 
-[Mapa Mental]()
+[Mapa Mental](mapa_mental.png)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
